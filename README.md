@@ -6,7 +6,7 @@
 I have a handful of projects happening right now, when they are launched they will be listed here.
 
 ## Open Source
-- 
+(Coming soon)
 
 ## Publications
 I am an author on [Medium](https://medium.com/@brandalorian) and write articles/posts from time to time on current trends in the Javascript community.
