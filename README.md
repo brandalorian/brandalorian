@@ -7,4 +7,4 @@ I have a handful of projects happening right now, when they are launched they wi
 (Coming soon)
 
 # Contact
-I can be contacted via [LinkedIn](https://www.linkedin.com/in/brandon-kent/). My resume can be downloaded <a href="https://github.com/brandalorian/brandalorian/blob/main/BRANDON_KENT_CV.pdf" download>here</a>.
+I can be contacted via [LinkedIn](https://www.linkedin.com/in/brandon-kent/). My resume can be downloaded <a href="BRANDON_KENT_CV.pdf" download>here</a>.
