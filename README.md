@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=brandalorian.brandalorian.issue.985717106465)
+
 > "If there's one attribute that everyone could adopt from the skateboarding community, it would be to have a desire to learn something new- to try, and fall, and pick yourself up again- and repeat that process as many times as it takes to land the trick."
 
 If you have ever watched anyone trying to learn a new trick on a skateboard, you will know of the labor and toil they exert in an effort to better understand 
