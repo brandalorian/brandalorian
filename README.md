@@ -1,15 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=brandalorian.brandalorian.issue.985717106465)
- 
- <a href="javascript:void(0)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brandalorian&count_private=true&show_icons=true&theme=dark&include_all_commits=true&line_height=26" /></a>
-  <a href="javascript:void(0)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandalorian&theme=dark&line_height=25" /></a>
- 
- 
+
  [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandalorian&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/brandalorian/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandalorian&theme=react)](https://github.com/brandalorian/github-readme-stats)
-
-
-
 > "If there's one attribute that everyone could adopt from the skateboarding community, it would be to have a desire to learn something new- to try, and fall, and pick yourself up again- and repeat that process as many times as it takes to land the trick."
 
 If you have ever watched anyone trying to learn a new trick on a skateboard, you will know of the labor and toil they exert in an effort to better understand 
