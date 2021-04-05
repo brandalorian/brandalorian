@@ -1,4 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=brandalorian.brandalorian.issue.985717106465)
+ 
+ [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandalorian&count_private=true&show_icons=true&theme=dark)](https://github.com/brandalorian/github-readme-stats)
+
 
 > "If there's one attribute that everyone could adopt from the skateboarding community, it would be to have a desire to learn something new- to try, and fall, and pick yourself up again- and repeat that process as many times as it takes to land the trick."
 
