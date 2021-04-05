@@ -7,7 +7,7 @@ This is the way *life* should be- trying new things. To stop learning is to stop
 and you'll have to be a "beginner" at something new, but thats what life is all about. Embrace it!
 
 # About
-My name is Brandon and I am a software developer based out of Mesa, Arizona. I enjoy building projects with modern javascript tools like Stencil.js and Node.js.
+My name is Brandon and I am a software developer based out of Mesa, Arizona. I build full-stack Javascript projects from design to implementation. My favorite tools right now are [Stencil.js](https://stenciljs.com/) and [Node.js](https://nodejs.dev/).
 
 # Current Projects
 I have a handful of projects I am iterating on currently. As they are launched they will be listed here.
