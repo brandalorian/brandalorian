@@ -1,7 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=brandalorian.brandalorian.issue.985717106465)
  
- <a href="javascript:void(0)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brandalorian&count_private=true&show_icons=true&theme=dark&include_all_commits=true" /></a>
-  <a href="javascript:void(0)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandalorian&theme=dark&layout=compact" /></a>
+ <a href="javascript:void(0)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brandalorian&count_private=true&show_icons=true&theme=dark&include_all_commits=true&line_height=5" /></a>
+  <a href="javascript:void(0)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandalorian&theme=dark" /></a>
  
  
  [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandalorian&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/brandalorian/github-readme-stats)
