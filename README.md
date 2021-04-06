@@ -5,16 +5,3 @@ the "physics" of what makes the trick happen, and what series of movements they 
 trick. The only way to progress is to try, even if you fall for weeks on end until it clicks in your head and you begin to better understand the trick. 
 This is the way *life* should be- trying new things. To stop learning is to stop progressing, and what is life without progression? Sure it's uncomfortable 
 and you'll have to be a "beginner" at something new, but thats what life is all about. Embrace it!
-
-# About
-My name is Brandon and I am a software developer based out of Mesa, Arizona. I build full-stack Javascript projects from design to implementation. My favorite tools right now are [Stencil.js](https://stenciljs.com/) and [Node.js](https://nodejs.dev/).
-
-# Current Projects
-I have a handful of projects I am iterating on currently. As they are launched they will be listed here.
-I am also an author on Medium and my articles can be found here: https://brandalorian.medium.com
-
-# Open Source
-- [form-buster](https://github.com/brandalorian/form-buster)
-
-# Contact
-I can be contacted via [LinkedIn messaging](https://www.linkedin.com/in/brandon-kent/) or you can email me directly at brandonk3nt@gmail.com.
